@@ -1,0 +1,31 @@
+"Close" = "Затваряне";
+
+"Scan Card" = "Сканиране на картата";
+
+"Scan card" = "Сканиране на карта";
+
+"The IBAN you entered is invalid." = "IBAN, който сте въвели, е невалиден.";
+
+"There was an error processing your card -- try again in a few seconds" = "Възникна грешка при обработката на Вашата карта -- опитайте отново след няколко секунди";
+
+"There was an unexpected error -- try again in a few seconds" = "Това беше неочаквана грешка -- опитайте отново след няколко секунди";
+
+"Try again" = "Опитайте отново";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Пожалуйста, разместите вашу карту в прямоугольнике выше. OnBoard будет использовать камеру для автоматического извлечения и заполнения только той информации о карте, которая требуется в форме.";
+
+"Your card has expired" = "Вашата карта е изтекла";
+
+"Your card was declined" = "Вашата карта бе отхвърлена";
+
+"Your card's expiration month is invalid" = "Месецът на валидност на Вашата карта е невалиден";
+
+"Your card's expiration year is invalid" = "Годината на валидност на Вашата карта е невалидна";
+
+"Your card's number is invalid" = "Номерът на Вашата карта е невалиден";
+
+"Your card's security code is invalid" = "Кодът за сигурност на Вашата карта е невалиден";
+
+"Your name is invalid." = "Името Ви е невалидно.";
+
+"Your payment method was declined." = "Начинът Ви на плащане беше отказан.";

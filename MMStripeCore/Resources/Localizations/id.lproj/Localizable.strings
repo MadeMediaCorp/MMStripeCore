@@ -1,0 +1,31 @@
+"Close" = "Tutup";
+
+"Scan Card" = "Pindai Kartu";
+
+"Scan card" = "Pindai kartu";
+
+"The IBAN you entered is invalid." = "IBAN yang Anda masukkan tidak valid.";
+
+"There was an error processing your card -- try again in a few seconds" = "Ada kesalahan saat memproses kartu Anda -- cobalah lagi dalam beberapa detik";
+
+"There was an unexpected error -- try again in a few seconds" = "Ada kesalahan tak terduga -- cobalah lagi dalam beberapa detik";
+
+"Try again" = "Coba lagi";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Harap posisikan kartu Anda di dalam persegi panjang di atas. OnBoard akan menggunakan kamera untuk secara otomatis mengekstrak dan mengisi hanya informasi kartu yang diperlukan pada formulir.";
+
+"Your card has expired" = "Kartu Anda telah kedaluwarsa";
+
+"Your card was declined" = "Kartu Anda ditolak";
+
+"Your card's expiration month is invalid" = "Bulan kedaluwarsa kartu Anda tidak valid";
+
+"Your card's expiration year is invalid" = "Tahun kedaluwarsa kartu Anda tidak valid";
+
+"Your card's number is invalid" = "Nomor kartu Anda tidak valid";
+
+"Your card's security code is invalid" = "Kode keamanan kartu Anda tidak valid";
+
+"Your name is invalid." = "Nama Anda tidak valid.";
+
+"Your payment method was declined." = "Metode pembayaran Anda ditolak.";

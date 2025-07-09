@@ -1,0 +1,31 @@
+"Close" = "Sluiten";
+
+"Scan Card" = "Kaart scannen";
+
+"Scan card" = "Betaalkaart scannen";
+
+"The IBAN you entered is invalid." = "Het opgegeven IBAN-nummer is ongeldig.";
+
+"There was an error processing your card -- try again in a few seconds" = "Er is een fout met de verwerking van je kaart. Probeer het over enkele seconden opnieuw";
+
+"There was an unexpected error -- try again in a few seconds" = "Er is een onverwachte fout opgetreden. Probeer het over enkele seconden opnieuw";
+
+"Try again" = "Opnieuw proberen";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Plaats uw kaart in de rechthoek hierboven. OnBoard gebruikt de camera om automatisch alleen de kaartgegevens te extraheren en in te vullen die op het formulier nodig zijn.";
+
+"Your card has expired" = "Je kaart is vervallen";
+
+"Your card was declined" = "Je kaart is geweigerd";
+
+"Your card's expiration month is invalid" = "De vervalmaand van je kaart is ongeldig";
+
+"Your card's expiration year is invalid" = "Het vervaljaar van je kaart is ongeldig";
+
+"Your card's number is invalid" = "Je kaartnummer is ongeldig";
+
+"Your card's security code is invalid" = "De beveiligingscode van je kaart is ongeldig";
+
+"Your name is invalid." = "Je naam is ongeldig.";
+
+"Your payment method was declined." = "Je betaalmethode is geweigerd.";

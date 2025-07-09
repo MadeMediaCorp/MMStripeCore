@@ -1,0 +1,31 @@
+"Close" = "Κλείσιμο";
+
+"Scan Card" = "Σάρωση κάρτας";
+
+"Scan card" = "Σάρωση κάρτας";
+
+"The IBAN you entered is invalid." = "Ο κωδικός IBAN που εισαγάγατε δεν είναι έγκυρος.";
+
+"There was an error processing your card -- try again in a few seconds" = "Προέκυψε απροσδόκητο σφάλμα κατά την επεξεργασία της κάρτας σας -- δοκιμάστε ξανά σε μερικά δευτερόλεπτα";
+
+"There was an unexpected error -- try again in a few seconds" = "Προέκυψε απροσδόκητο σφάλμα -- δοκιμάστε ξανά σε μερικά δευτερόλεπτα";
+
+"Try again" = "Δοκιμάστε ξανά";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Τοποθετήστε την κάρτα σας μέσα στο παραπάνω ορθογώνιο. Το OnBoard θα χρησιμοποιήσει την κάμερα για να εξαγάγει και να συμπληρώσει αυτόματα μόνο τις πληροφορίες της κάρτας που απαιτούνται στη φόρμα.";
+
+"Your card has expired" = "Η κάρτα σας έχει λήξει";
+
+"Your card was declined" = "Η κάρτα σας απορρίφθηκε";
+
+"Your card's expiration month is invalid" = "Ο μήνας λήξης της κάρτας σας δεν είναι έγκυρος";
+
+"Your card's expiration year is invalid" = "Το έτος λήξης της κάρτας σας δεν είναι έγκυρο";
+
+"Your card's number is invalid" = "Ο αριθμός της κάρτας σας δεν είναι έγκυρος";
+
+"Your card's security code is invalid" = "Ο κωδικός ασφαλείας της κάρτας σας δεν είναι έγκυρος";
+
+"Your name is invalid." = "Το όνομά σας δεν είναι έγκυρο.";
+
+"Your payment method was declined." = "Η μέθοδος πληρωμής σας απορρίφθηκε.";

@@ -1,0 +1,31 @@
+"Close" = "Lukk";
+
+"Scan Card" = "Skann kort";
+
+"Scan card" = "Skann kort";
+
+"The IBAN you entered is invalid." = "IBAN-nummeret du la inn er ugyldig.";
+
+"There was an error processing your card -- try again in a few seconds" = "Det oppstod en feil ved prosessering av kortet -- prøv igjen om et par sekunder";
+
+"There was an unexpected error -- try again in a few seconds" = "En uventet feil har oppstått -- prøv igjen om et par sekunder";
+
+"Try again" = "Prøv igjen";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Vennligst plasser kortet ditt innenfor rektangelet ovenfor. OnBoard vil bruke kameraet til automatisk å hente ut og fylle ut kun kortinformasjonen som kreves på skjemaet.";
+
+"Your card has expired" = "Kortet ditt har utløpt";
+
+"Your card was declined" = "Kortet ditt ble avvist";
+
+"Your card's expiration month is invalid" = "Kortet sin utløpsmåned er ugyldig";
+
+"Your card's expiration year is invalid" = "Kortet sitt utløpsår er ugyldig";
+
+"Your card's number is invalid" = "Ugyldig kortnummer";
+
+"Your card's security code is invalid" = "Ugyldig sikkerhetskode";
+
+"Your name is invalid." = "Navnet er ugyldig.";
+
+"Your payment method was declined." = "Betalingsmetoden din ble avvist.";

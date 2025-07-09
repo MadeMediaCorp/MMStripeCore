@@ -1,0 +1,31 @@
+"Close" = "Zapri";
+
+"Scan Card" = "Optično preberi kartico";
+
+"Scan card" = "Optično preberi kartico";
+
+"The IBAN you entered is invalid." = "Vnesena koda IBAN ni veljavna.";
+
+"There was an error processing your card -- try again in a few seconds" = "Pri obdelavi vaše kartice je prišlo do napake. Poskusite znova čez nekaj sekund.";
+
+"There was an unexpected error -- try again in a few seconds" = "Prišlo je do nepričakovane napake. Poskusite znova čez nekaj sekund.";
+
+"Try again" = "Poskusi znova";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Prosimo, namestite kartico v zgornji pravokotnik. OnBoard bo s kamero samodejno izvlekel in vnesel le podatke o kartici, ki so potrebni na obrazcu.";
+
+"Your card has expired" = "Vaša kartica je potekla";
+
+"Your card was declined" = "Vaša kartica je bila zavrnjena";
+
+"Your card's expiration month is invalid" = "Mesec poteka vaše kartice ni veljaven";
+
+"Your card's expiration year is invalid" = "Leto poteka vaše kartice ni veljavno";
+
+"Your card's number is invalid" = "Številka vaše kartice ni veljavna";
+
+"Your card's security code is invalid" = "Varnostna koda vaše kartice ni veljavna";
+
+"Your name is invalid." = "Vaše ime ni veljavno.";
+
+"Your payment method was declined." = "Vaš način plačila je bil zavrnjen.";

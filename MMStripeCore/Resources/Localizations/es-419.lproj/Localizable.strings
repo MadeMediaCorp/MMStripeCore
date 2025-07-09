@@ -1,0 +1,31 @@
+"Close" = "Cerrar";
+
+"Scan Card" = "Escanear tarjeta";
+
+"Scan card" = "Escanear tarjeta";
+
+"The IBAN you entered is invalid." = "El IBAN que ingresaste no es válido.";
+
+"There was an error processing your card -- try again in a few seconds" = "Hubo un error al procesar tu tarjeta. Vuelve a intentar en unos segundos.";
+
+"There was an unexpected error -- try again in a few seconds" = "Se produjo un error inesperado. Vuelve a intentar en unos segundos.";
+
+"Try again" = "Reintentar";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Coloque su tarjeta dentro del rectángulo superior. OnBoard usará la cámara para extraer y completar automáticamente solo la información de la tarjeta requerida en el formulario.";
+
+"Your card has expired" = "Tu tarjeta ha vencido.";
+
+"Your card was declined" = "Tu tarjeta fue rechazada.";
+
+"Your card's expiration month is invalid" = "El mes de vencimiento de tu tarjeta no es válido.";
+
+"Your card's expiration year is invalid" = "El año de vencimiento de tu tarjeta no es válido";
+
+"Your card's number is invalid" = "El número de tarjeta no es válido";
+
+"Your card's security code is invalid" = "El código de seguridad de tu tarjeta no es válido.";
+
+"Your name is invalid." = "El nombre no es válido.";
+
+"Your payment method was declined." = "Tu método de pago fue rechazado.";

@@ -1,0 +1,31 @@
+"Close" = "Stäng";
+
+"Scan Card" = "Skanna kort";
+
+"Scan card" = "Skanna kort";
+
+"The IBAN you entered is invalid." = "Angivet IBAN är ogiltigt.";
+
+"There was an error processing your card -- try again in a few seconds" = "Ett fel uppstod vid behandlingen av ditt kort - försök igen om ett par sekunder";
+
+"There was an unexpected error -- try again in a few seconds" = "Ett oväntat fel uppstod - försök igen om ett par sekunder";
+
+"Try again" = "Försök igen";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Placera ditt kort inom rektangeln ovan. OnBoard kommer att använda kameran för att automatiskt extrahera och fylla endast i den kortinformation som krävs på formuläret.";
+
+"Your card has expired" = "Kortet har löpt ut";
+
+"Your card was declined" = "Ditt kort nekades";
+
+"Your card's expiration month is invalid" = "Kortets utgångsmånad är ogiltig";
+
+"Your card's expiration year is invalid" = "Kortets utgångsår är ogiltigt";
+
+"Your card's number is invalid" = "Kortnumret är ogiltigt";
+
+"Your card's security code is invalid" = "Kortets säkerhetskod är ogiltig";
+
+"Your name is invalid." = "Ditt namn är ogiltigt.";
+
+"Your payment method was declined." = "Din betalningsmetod godkändes inte.";

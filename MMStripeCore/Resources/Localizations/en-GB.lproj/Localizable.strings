@@ -1,0 +1,31 @@
+"Close" = "Close";
+
+"Scan Card" = "Scan Card";
+
+"Scan card" = "Scan card";
+
+"The IBAN you entered is invalid." = "The IBAN you entered is invalid.";
+
+"There was an error processing your card -- try again in a few seconds" = "There was an error processing your card - please try again in a few seconds";
+
+"There was an unexpected error -- try again in a few seconds" = "There was an unexpected error - please try again in a few seconds";
+
+"Try again" = "Try again";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form.";
+
+"Your card has expired" = "Your card has expired";
+
+"Your card was declined" = "Your card has been declined";
+
+"Your card's expiration month is invalid" = "Your card's expiry month is invalid";
+
+"Your card's expiration year is invalid" = "Your card's expiry year is invalid";
+
+"Your card's number is invalid" = "Your card's number is invalid";
+
+"Your card's security code is invalid" = "Your card's security code is invalid";
+
+"Your name is invalid." = "Your name is invalid.";
+
+"Your payment method was declined." = "Your payment method was declined.";

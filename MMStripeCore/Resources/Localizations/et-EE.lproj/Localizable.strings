@@ -1,0 +1,31 @@
+"Close" = "Sule";
+
+"Scan Card" = "Skanni kaart";
+
+"Scan card" = "Skanni kaart";
+
+"The IBAN you entered is invalid." = "Sisestatud IBAN on kehtetu.";
+
+"There was an error processing your card -- try again in a few seconds" = "Kaardi töötlemisel esines tõrge – proovige mõne sekundi pärast uuesti";
+
+"There was an unexpected error -- try again in a few seconds" = "Esines ootamatu tõrge – proovige mõne sekundi pärast uuesti";
+
+"Try again" = "Proovi uuesti";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Palun asetage oma kaart ülaloleva ristküliku sisse. OnBoard kasutab kaamerat, et automaatselt välja võtta ja täita ainult vormil nõutav kaarditeave.";
+
+"Your card has expired" = "Kaart on aegunud";
+
+"Your card was declined" = "Kaart lükati tagasi";
+
+"Your card's expiration month is invalid" = "Kaardi aegumiskuu on kehtetu";
+
+"Your card's expiration year is invalid" = "Kaardi aegumisaasta on kehtetu";
+
+"Your card's number is invalid" = "Kaardi number on kehtetu";
+
+"Your card's security code is invalid" = "Kaardi turvakood on kehtetu";
+
+"Your name is invalid." = "Teie nimi on kehtetu.";
+
+"Your payment method was declined." = "Teie makseviis lükati tagasi.";

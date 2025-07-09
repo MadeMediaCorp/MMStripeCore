@@ -1,0 +1,31 @@
+"Close" = "关闭";
+
+"Scan Card" = "扫描银行卡";
+
+"Scan card" = "扫描卡";
+
+"The IBAN you entered is invalid." = "您输入的 IBAN 无效。";
+
+"There was an error processing your card -- try again in a few seconds" = "处理您的卡时发生错误 —— 请稍后再试";
+
+"There was an unexpected error -- try again in a few seconds" = "发生了意外错误 —— 请过几秒钟再试";
+
+"Try again" = "重试";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "请将您的卡片放置在上方的矩形框内。OnBoard 将使用摄像头自动提取并填充表格中所需的卡片信息。";
+
+"Your card has expired" = "您的银行卡已过期";
+
+"Your card was declined" = "您的卡已被拒绝";
+
+"Your card's expiration month is invalid" = "您的银行卡的到期月份无效";
+
+"Your card's expiration year is invalid" = "您的银行卡的到期年份无效。";
+
+"Your card's number is invalid" = "您的卡号无效";
+
+"Your card's security code is invalid" = "您的银行卡的安全码无效";
+
+"Your name is invalid." = "您的姓名无效。";
+
+"Your payment method was declined." = "您的支付方式被拒绝了。";

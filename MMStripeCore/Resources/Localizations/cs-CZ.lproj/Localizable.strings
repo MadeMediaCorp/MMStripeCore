@@ -1,0 +1,31 @@
+"Close" = "Zavřít";
+
+"Scan Card" = "Naskenovat kartu";
+
+"Scan card" = "Naskenovat kartu";
+
+"The IBAN you entered is invalid." = "Číslo IBAN, které jste zadali, je neplatné.";
+
+"There was an error processing your card -- try again in a few seconds" = "Při zpracování Vaší karty došlo k chybě -- zkuste to za několik sekund znovu";
+
+"There was an unexpected error -- try again in a few seconds" = "Došlo k neočekávané chybě -- zkuste to znovu za několik sekund";
+
+"Try again" = "Zkusit znovu";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Umístěte prosím kartu do výše uvedeného obdélníku. OnBoard pomocí fotoaparátu automaticky extrahuje a vyplní pouze ty informace o kartě, které jsou ve formuláři vyžadovány.";
+
+"Your card has expired" = "Platnost Vaší karty uplynula";
+
+"Your card was declined" = "Vaše karta byla odmítnuta";
+
+"Your card's expiration month is invalid" = "Měsíc konce platnosti Vaší karty je neplatný";
+
+"Your card's expiration year is invalid" = "Rok konce platnosti Vaší karty je neplatný";
+
+"Your card's number is invalid" = "Číslo Vaší karty je neplatné";
+
+"Your card's security code is invalid" = "Bezpečnostní kód Vaší karty je neplatný";
+
+"Your name is invalid." = "Vaše jméno je neplatné.";
+
+"Your payment method was declined." = "Vaše platební metoda byla zamítnuta.";

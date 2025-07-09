@@ -1,0 +1,31 @@
+"Close" = "Tutup";
+
+"Scan Card" = "Imbas Kad";
+
+"Scan card" = "Imbas kad";
+
+"The IBAN you entered is invalid." = "IBAN yang anda masukkan tidak sah.";
+
+"There was an error processing your card -- try again in a few seconds" = "Ada ralat ketika memproses kad anda -- cuba lagi dalam masa beberapa saat";
+
+"There was an unexpected error -- try again in a few seconds" = "Ada ralat yang tidak dijangka -- cuba lagi dalam masa beberapa saat";
+
+"Try again" = "Cuba lagi";
+
+"Please position your card within the rectangle above. OnBoard will use the camera to automatically extract and populate only the card information required on the form." = "Sila letakkan kad anda dalam segi empat tepat di atas. OnBoard akan menggunakan kamera untuk mengekstrak dan mengisi hanya maklumat kad yang diperlukan pada borang secara automatik.";
+
+"Your card has expired" = "Kad anda telah tamat tempoh";
+
+"Your card was declined" = "Kad anda telah ditolak";
+
+"Your card's expiration month is invalid" = "Bulan tamat tempoh kad anda tidak sah";
+
+"Your card's expiration year is invalid" = "Tahun tamat tempoh kad anda tidak sah";
+
+"Your card's number is invalid" = "Nombor kad anda tidak sah";
+
+"Your card's security code is invalid" = "Kod keselamatan kad anda tidak sah";
+
+"Your name is invalid." = "Nama anda tidak sah.";
+
+"Your payment method was declined." = "Kaedah pembayaran anda ditolak.";
